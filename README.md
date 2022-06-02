@@ -1,3 +1,3 @@
 # my-project
-  - [Preview](https://your-name.github.io/your-repo/)
-  - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+  - [Preview](https://denis-khristyuk.github.io/my-project/)
+  - [Pull Request](https://github.com/enis-khristyuk/my-project/pull/1/files)
